@@ -1,10 +1,20 @@
 # holiday_scraping
 
+## scrapes data from [Holidify](https://www.holidify.com/), a travel website
 
+Current extraction features: 
 
-* **Problems:**
-	* Couldn't figure out how to add weather data
-	* Don't know what **"Upcoming events means"**
+* City Name
+* Places to Visit in the city
+* State
+* Country
+* Weather
+* Best time
+* Ideal duration
+* About
+* Nearest Airport
+* Upcoming events
+* More on City
+* How to reach
 
-* **Needs upgrade:**
-	* Need more places (currently has 60 places [every places in India])
+It output's in `csv` format, which can be found here: [holidify.csv](/holidify.csv)
